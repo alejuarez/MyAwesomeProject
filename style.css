@@ -34,14 +34,18 @@ body {
   height: 400px;
 }
 .a1 {
-  background-image: url('https://images.pexels.com/photos/317355/pexels-photo-317355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+  background-image: url(../portfolio-a1.jpeg);
 }
 .a2 {
-  background-image: url('https://images.pexels.com/photos/240038/pexels-photo-240038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+  background-image: url(../portfolio-a2.jpeg);
   color: #fff;
 }
 .a3 {
-  background-image: url('https://images.pexels.com/photos/442574/pexels-photo-442574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+  background-image: url(../portfolio-a3.jpeg);
+  color: #fff;
+}
+.a4 {
+  background-image: url(../portfolio-a4.jpeg);
 }
 
 .auth-image {
@@ -60,6 +64,12 @@ p {
   position: absolute;
   margin-top: 130px;
   padding: 10px;
+}
+.skillimage {
+  width: 70px;
+  height: auto;
+  margin: 10px 0px 5px 10px;
+  border-radius: 0%;
 }
 .social {
   text-align: center;

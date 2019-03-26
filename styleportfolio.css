@@ -1,0 +1,36 @@
+h1 {
+  width: 250px;
+  text-align: center;
+  margin: 100px auto 20px auto;
+}
+.container {
+  width: 100%;
+  clear: both;
+  display: flex;
+  flex-flow: row wrap;
+  background-image: url(../portfolio-a3.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card-wrap {
+  flex: 0 0 33.333%;
+  display: flex;
+  padding: 10px; /* gutter width */
+}
+
+.card {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 2px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+}
+footer {
+  text-align: center;
+}
