@@ -8,7 +8,7 @@ h1 {
   clear: both;
   display: flex;
   flex-flow: row wrap;
-  background-image: url(../portfolio-a3.jpeg);
+  background-image: url(../images/portfolio-a3.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

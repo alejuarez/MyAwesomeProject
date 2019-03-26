@@ -34,18 +34,18 @@ body {
   height: 400px;
 }
 .a1 {
-  background-image: url(../portfolio-a1.jpeg);
+  background-image: url(../images/portfolio-a1.jpeg);
 }
 .a2 {
-  background-image: url(../portfolio-a2.jpeg);
+  background-image: url(../images/portfolio-a2.jpeg);
   color: #fff;
 }
 .a3 {
-  background-image: url(../portfolio-a3.jpeg);
+  background-image: url(../images/portfolio-a3.jpeg);
   color: #fff;
 }
 .a4 {
-  background-image: url(../portfolio-a4.jpeg);
+  background-image: url(../images/portfolio-a4.jpeg);
 }
 
 .auth-image {
